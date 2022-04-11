@@ -1,0 +1,13 @@
+asgiref==3.5.0
+certifi==2021.10.8
+Django==3.2.12
+django-elasticsearch-dsl==7.2.0
+djangorestframework==3.12.4
+elasticsearch==7.14.0
+elasticsearch-dsl==7.4.0
+python-dateutil==2.8.2
+pytz==2022.1
+six==1.16.0
+sqlparse==0.4.2
+typing-extensions==4.1.1
+urllib3==1.26.9
